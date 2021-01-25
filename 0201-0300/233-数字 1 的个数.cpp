@@ -1,7 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 /*
-思路：
+思路：找数字1出现的规律，从第位向高位递推
+写完以后准备看数位dp的写法，一看题解，全是找规律...
 */
 //start here
 class Solution {
